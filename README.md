@@ -1,9 +1,12 @@
-# Visionnairy.ai-ISP-project.
+# Visionnairy.ai-ISP-project. 
 
-this is a little piece of my graduate project
+a little piece of my graduate project. 
 
-Translating Visionary.AI's image processing code from Python to C++ and CUDA. 
+my project was translating [Visionary.AI](https://www.visionary.ai/) company image processing code from Python to C++ and CUDA.  
 
-Since the main part of my project is under NDA, I can't share it.
+Since the main part of my project is protected by NDA, I can't share it. 
 
-Here there are only additions that were used but the algorithm itself is under protection.
+Here there are only additions that were used but the magic algorithm itself is under protection. 
+
+1. pool design pattern 
+2. convolution in cuda implementation
